@@ -1,2 +1,2 @@
 # test-skill
-test skill repo
+test skill repo with Github
